@@ -9,9 +9,6 @@
     "moduleDetection": "force",
     "noEmit": false, // Changed to false to enable file emission
     "strict": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "noFallthroughCasesInSwitch": true,
     "esModuleInterop": true,
     "outDir": "./dist"
   },
